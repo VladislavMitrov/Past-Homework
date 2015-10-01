@@ -47,7 +47,7 @@ namespace _12.Zero_Subset
                 result = result.Trim('+', ' ');
                 result += " = " + sum;
 
-                if (sum == 0)
+                while (sum == 0)
                 {
                     Console.WriteLine(result);
                     isZeroSubset = true;
