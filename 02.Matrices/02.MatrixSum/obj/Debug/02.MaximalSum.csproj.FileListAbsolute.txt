@@ -1,0 +1,9 @@
+c:\users\vladi\documents\visual studio 2013\Projects\Solution5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\vladi\documents\visual studio 2013\Projects\Solution5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\vladi\documents\visual studio 2013\Projects\Solution5\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\vladi\documents\visual studio 2013\Projects\Solution5\ConsoleApplication1\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
+c:\users\vladi\documents\visual studio 2013\Projects\Solution5\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\vladi\documents\visual studio 2013\Projects\Solution5\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\02.MatrixSum\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\02.MatrixSum\obj\Debug\ConsoleApplication1.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\02.MatrixSum\obj\Debug\ConsoleApplication1.pdb

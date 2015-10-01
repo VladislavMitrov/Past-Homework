@@ -1,0 +1,9 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\04.SequencesMatrix\bin\Debug\04.SequencesMatrix.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\04.SequencesMatrix\bin\Debug\04.SequencesMatrix.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\04.SequencesMatrix\bin\Debug\04.SequencesMatrix.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\04.SequencesMatrix\obj\Debug\04.SequencesMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\04.SequencesMatrix\obj\Debug\04.SequencesMatrix.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\04.SequencesMatrix\obj\Debug\04.SequencesMatrix.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\04.SequencesMatrix\bin\Debug\04.SequencesMatrix.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\04.SequencesMatrix\obj\Debug\04.SequencesMatrix.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\04.SequencesMatrix\obj\Debug\04.SequencesMatrix.pdb

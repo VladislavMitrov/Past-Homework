@@ -1,0 +1,6 @@
+c:\Users\Vladi\documents\visual studio 2013\Projects\Solution5\01.FIllMatrix\bin\Debug\01.FIllMatrix.exe.config
+c:\Users\Vladi\documents\visual studio 2013\Projects\Solution5\01.FIllMatrix\bin\Debug\01.FIllMatrix.exe
+c:\Users\Vladi\documents\visual studio 2013\Projects\Solution5\01.FIllMatrix\bin\Debug\01.FIllMatrix.pdb
+c:\Users\Vladi\documents\visual studio 2013\Projects\Solution5\01.FIllMatrix\obj\Debug\01.FIllMatrix.exe
+c:\Users\Vladi\documents\visual studio 2013\Projects\Solution5\01.FIllMatrix\obj\Debug\01.FIllMatrix.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\01.FIllMatrix\obj\Debug\01.FIllMatrix.csprojResolveAssemblyReference.cache

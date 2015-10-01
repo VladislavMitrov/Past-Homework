@@ -1,0 +1,8 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\08.NightLife\bin\Debug\08.NightLife.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\08.NightLife\bin\Debug\08.NightLife.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\08.NightLife\bin\Debug\08.NightLife.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\08.NightLife\obj\Debug\08.NightLife.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\08.NightLife\obj\Debug\08.NightLife.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\08.NightLife\bin\Debug\08.NightLife.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\08.NightLife\obj\Debug\08.NightLife.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\08.NightLife\obj\Debug\08.NightLife.pdb

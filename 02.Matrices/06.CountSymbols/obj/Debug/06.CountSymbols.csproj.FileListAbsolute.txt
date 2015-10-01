@@ -1,0 +1,6 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\06.CountSymbols\obj\Debug\06.CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\06.CountSymbols\obj\Debug\06.CountSymbols.pdb

@@ -1,0 +1,9 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\07.Phonebook\obj\Debug\07.Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\07.Phonebook\bin\Debug\07.Phonebook.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\07.Phonebook\bin\Debug\07.Phonebook.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\07.Phonebook\obj\Debug\07.Phonebook.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\07.Phonebook\obj\Debug\07.Phonebook.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\07.Phonebook\obj\Debug\07.Phonebook.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\07.Phonebook\obj\Debug\07.Phonebook.pdb

@@ -1,0 +1,9 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\03.ShuffleMatrix\bin\Debug\03.ShuffleMatrix.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\03.ShuffleMatrix\bin\Debug\03.ShuffleMatrix.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\03.ShuffleMatrix\bin\Debug\03.ShuffleMatrix.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\03.ShuffleMatrix\obj\Debug\03.ShuffleMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\03.ShuffleMatrix\obj\Debug\03.ShuffleMatrix.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\Solution5\03.ShuffleMatrix\obj\Debug\03.ShuffleMatrix.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\03.ShuffleMatrix\bin\Debug\03.ShuffleMatrix.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\03.ShuffleMatrix\obj\Debug\03.ShuffleMatrix.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\02.Matrices\03.ShuffleMatrix\obj\Debug\03.ShuffleMatrix.pdb
