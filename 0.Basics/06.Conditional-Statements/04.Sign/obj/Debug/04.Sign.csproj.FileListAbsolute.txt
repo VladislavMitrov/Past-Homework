@@ -1,0 +1,6 @@
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\04.Sign\bin\Debug\04.Sign.exe.config
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\04.Sign\bin\Debug\04.Sign.exe
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\04.Sign\bin\Debug\04.Sign.pdb
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\04.Sign\obj\Debug\04.Sign.exe
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\04.Sign\obj\Debug\04.Sign.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\04.Sign\obj\Debug\04.Sign.csprojResolveAssemblyReference.cache

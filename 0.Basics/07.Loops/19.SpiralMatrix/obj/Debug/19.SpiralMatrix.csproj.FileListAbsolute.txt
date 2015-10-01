@@ -1,0 +1,5 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\11.Number-Words\bin\Debug\11.Number-Words.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\11.Number-Words\bin\Debug\11.Number-Words.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\11.Number-Words\bin\Debug\11.Number-Words.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\11.Number-Words\obj\Debug\11.Number-Words.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\11.Number-Words\obj\Debug\11.Number-Words.pdb

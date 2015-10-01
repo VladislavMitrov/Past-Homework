@@ -1,0 +1,5 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\02.NotDivisible-3-7\bin\Debug\02.NotDivisible-3-7.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\02.NotDivisible-3-7\bin\Debug\02.NotDivisible-3-7.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\02.NotDivisible-3-7\bin\Debug\02.NotDivisible-3-7.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\02.NotDivisible-3-7\obj\Debug\02.NotDivisible-3-7.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\02.NotDivisible-3-7\obj\Debug\02.NotDivisible-3-7.pdb

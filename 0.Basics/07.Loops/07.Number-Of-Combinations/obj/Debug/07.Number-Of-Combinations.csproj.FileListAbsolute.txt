@@ -1,0 +1,6 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\07.Number-Of-Combinations\bin\Debug\07.Number-Of-Combinations.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\07.Number-Of-Combinations\bin\Debug\07.Number-Of-Combinations.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\07.Number-Of-Combinations\bin\Debug\07.Number-Of-Combinations.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\07.Number-Of-Combinations\obj\Debug\07.Number-Of-Combinations.csprojResolveAssemblyReference.cache
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\07.Number-Of-Combinations\obj\Debug\07.Number-Of-Combinations.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\07.Number-Of-Combinations\obj\Debug\07.Number-Of-Combinations.pdb

@@ -1,0 +1,6 @@
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\01.Exchange-Greater\bin\Debug\01.Exchange-Greater.exe.config
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\01.Exchange-Greater\bin\Debug\01.Exchange-Greater.exe
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\01.Exchange-Greater\bin\Debug\01.Exchange-Greater.pdb
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\01.Exchange-Greater\obj\Debug\01.Exchange-Greater.csprojResolveAssemblyReference.cache
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\01.Exchange-Greater\obj\Debug\01.Exchange-Greater.exe
+c:\users\vladi\documents\visual studio 2013\Projects\06.Conditional-Statements\01.Exchange-Greater\obj\Debug\01.Exchange-Greater.pdb

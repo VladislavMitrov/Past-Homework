@@ -1,0 +1,5 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\05.Biggest-Number\bin\Debug\05.Biggest-Number.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\05.Biggest-Number\bin\Debug\05.Biggest-Number.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\05.Biggest-Number\bin\Debug\05.Biggest-Number.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\05.Biggest-Number\obj\Debug\05.Biggest-Number.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\05.Biggest-Number\obj\Debug\05.Biggest-Number.pdb

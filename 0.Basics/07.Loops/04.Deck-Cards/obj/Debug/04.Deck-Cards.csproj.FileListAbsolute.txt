@@ -1,0 +1,5 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\04.Deck-Cards\bin\Debug\04.Deck-Cards.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\04.Deck-Cards\bin\Debug\04.Deck-Cards.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\04.Deck-Cards\bin\Debug\04.Deck-Cards.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\04.Deck-Cards\obj\Debug\04.Deck-Cards.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\04.Deck-Cards\obj\Debug\04.Deck-Cards.pdb

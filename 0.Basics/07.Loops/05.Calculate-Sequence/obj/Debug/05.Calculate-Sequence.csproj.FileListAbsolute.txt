@@ -1,0 +1,6 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\05.Calculate-Sequence\bin\Debug\05.Calculate-Sequence.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\05.Calculate-Sequence\bin\Debug\05.Calculate-Sequence.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\05.Calculate-Sequence\bin\Debug\05.Calculate-Sequence.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\05.Calculate-Sequence\obj\Debug\05.Calculate-Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\05.Calculate-Sequence\obj\Debug\05.Calculate-Sequence.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\05.Calculate-Sequence\obj\Debug\05.Calculate-Sequence.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\10.Odd-Even-Product\bin\Debug\10.Odd-Even-Product.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\10.Odd-Even-Product\bin\Debug\10.Odd-Even-Product.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\10.Odd-Even-Product\bin\Debug\10.Odd-Even-Product.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\10.Odd-Even-Product\obj\Debug\10.Odd-Even-Product.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\10.Odd-Even-Product\obj\Debug\10.Odd-Even-Product.pdb

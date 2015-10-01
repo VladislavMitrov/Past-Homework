@@ -1,0 +1,5 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\18.Trailing-Zeros-In-N\bin\Debug\18.Trailing-Zeros-In-N.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\18.Trailing-Zeros-In-N\bin\Debug\18.Trailing-Zeros-In-N.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\18.Trailing-Zeros-In-N\bin\Debug\18.Trailing-Zeros-In-N.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\18.Trailing-Zeros-In-N\obj\Debug\18.Trailing-Zeros-In-N.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\18.Trailing-Zeros-In-N\obj\Debug\18.Trailing-Zeros-In-N.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\08.Digit-Word\bin\Debug\08.Digit-Word.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\08.Digit-Word\bin\Debug\08.Digit-Word.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\08.Digit-Word\bin\Debug\08.Digit-Word.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\08.Digit-Word\obj\Debug\08.Digit-Word.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\06.Conditional-Statements\08.Digit-Word\obj\Debug\08.Digit-Word.pdb

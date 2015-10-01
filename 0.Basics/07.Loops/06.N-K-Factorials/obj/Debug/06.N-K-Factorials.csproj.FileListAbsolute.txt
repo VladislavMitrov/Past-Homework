@@ -1,0 +1,5 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\06.N-K-Factorials\bin\Debug\06.N-K-Factorials.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\06.N-K-Factorials\bin\Debug\06.N-K-Factorials.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\06.N-K-Factorials\bin\Debug\06.N-K-Factorials.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\06.N-K-Factorials\obj\Debug\06.N-K-Factorials.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\06.N-K-Factorials\obj\Debug\06.N-K-Factorials.pdb

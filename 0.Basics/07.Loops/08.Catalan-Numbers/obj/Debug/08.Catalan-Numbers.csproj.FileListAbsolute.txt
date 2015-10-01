@@ -1,0 +1,5 @@
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\08.Catalan-Numbers\bin\Debug\08.Catalan-Numbers.exe.config
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\08.Catalan-Numbers\bin\Debug\08.Catalan-Numbers.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\08.Catalan-Numbers\bin\Debug\08.Catalan-Numbers.pdb
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\08.Catalan-Numbers\obj\Debug\08.Catalan-Numbers.exe
+C:\Users\Vladi\Documents\Visual Studio 2013\Projects\07.Loops\08.Catalan-Numbers\obj\Debug\08.Catalan-Numbers.pdb
